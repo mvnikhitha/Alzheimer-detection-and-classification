@@ -1,7 +1,6 @@
-# Alzheimer-detection-and-classification
+# 🧠 Alzheimer's Detection and Classification
 This repository contains a deep learning-based approach for detecting and classifying Alzheimer's disease using CNNs. The project includes dataset preprocessing, model training, evaluation, and a GUI for user-friendly interaction
 
-🧠 Alzheimer's Detection and Classification
 📌 Overview
 This project focuses on detecting and classifying Alzheimer's disease using deep learning techniques. A Convolutional Neural Network (CNN) is trained to analyze MRI scans and classify them into different stages of Alzheimer's. The project includes a Graphical User Interface (GUI) for easy interaction.
 
