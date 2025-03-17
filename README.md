@@ -57,3 +57,8 @@ The model achieves high accuracy on the test dataset, making it a reliable tool 
 ## 📜 Acknowledgment
 Special thanks to **Luke Chugh** for providing the dataset on Kaggle.
 
+## License
+This project is open-source and available under the MIT License.
+
+**Author:** [M V Nikhitha]r
+
